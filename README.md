@@ -22,7 +22,7 @@
  	</a> 
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/LucasPDiniz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasPDiniz/LucasPDiniz/blob/output/github-contribution-grid-snake.svg)
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
 
