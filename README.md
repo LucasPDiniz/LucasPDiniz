@@ -1,4 +1,4 @@
-## Hello everyone, my name is Lucas 👋, student of CyberSecurity and technologies in general!
+## Hello everyone, my name is Lucas 👋, student of CyberSecurity !
 <div align="center">
   <a href="https://github.com/LucasPDiniz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
