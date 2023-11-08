@@ -1,7 +1,7 @@
-## Some things aboutCyberSecurity !!! :skull:
+## Some things about CyberSecurity !!! :skull:
 
 <p align="center">
-  <strong>Views</strong>
+  <strong>Views :mag:</strong>
   <br>
   <img src="https://profile-counter.glitch.me/lucaspd777/count.svg" alt="Visitors">
 </p>
@@ -44,4 +44,5 @@
   
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
-
+  
+[![GitHub LucasPDiniz](https://img.shields.io/github/followers/LucasPDiniz?label=follow&style=social)](https://github.com/LucasPDiniz)
