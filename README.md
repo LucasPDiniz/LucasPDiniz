@@ -1,4 +1,4 @@
-## Hello everyone, I'm student of CyberSecurity !
+## Some things aboutCyberSecurity !!! :skull:
 <div align="center">
   <a href="https://github.com/LucasPDiniz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,4 +24,9 @@
   
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
-
+  
+ ##
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=5000&color=00FF00&center=true&vCenter=true&lines=root@nasa.gov:~%23%20rm%20-rf%20/" alt="Introduction">
+</p>
