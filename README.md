@@ -2,7 +2,7 @@
 
 Welcome everyone!
 
-In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and paylods available for execution in some vulnerable scenarios.
+In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and payloads available for execution in some vulnerable scenarios.
 
 Feel free to open PR and/or create suggestions or corrections on any exploratory subject.
 
