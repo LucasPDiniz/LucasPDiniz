@@ -1,4 +1,4 @@
-## Some things about CyberSecurity !!! :skull:
+## Some things about CyberSecurity !!! :metal:
 
 <p align="center">
   <strong>Views :mag:</strong>
