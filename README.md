@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img width="360" height="260" src="https://blog.explicae.com.br/wp-content/uploads/2018/08/MATERIAS-ESTUDO-ENEM-VESTIBULAR.gif">
+</p>
+
 ## Skills
 
 </div>
@@ -29,11 +33,6 @@
   <img align="center" alt="Lucas-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Csharp" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png">
-
-<p align="center">
-  <img width="360" height="260" src="https://blog.explicae.com.br/wp-content/uploads/2018/08/MATERIAS-ESTUDO-ENEM-VESTIBULAR.gif">
-</p>
-  
 
 ## Social Media
 
