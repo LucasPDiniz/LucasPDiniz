@@ -28,7 +28,7 @@ Let's learn together? :v:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&theme=merko" alt="LucasPD's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&theme=dark#gh-dark-mode-only" alt="LucasPD's github stats">
   </a>
 </p>
 
