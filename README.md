@@ -23,7 +23,7 @@ Let's learn together? :v:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&layout=compact&theme=merko" alt="LucasPD's top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&layout=compact&theme=dark" alt="LucasPD's top langs">
 </p>
 
 <p align="center">
