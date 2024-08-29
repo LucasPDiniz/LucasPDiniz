@@ -32,6 +32,8 @@ Let's learn together? :v:
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450)](https://git.io/streak-stats)
+
 <p align="center">
   <img width="360" height="260" src="https://blog.explicae.com.br/wp-content/uploads/2018/08/MATERIAS-ESTUDO-ENEM-VESTIBULAR.gif">
 </p>
