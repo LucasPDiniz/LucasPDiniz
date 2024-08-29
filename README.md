@@ -32,7 +32,11 @@ Let's learn together? :v:
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450" alt="LucasPD's streak stats">
+  </a>
+</p>
 
 <p align="center">
   <img width="360" height="260" src="https://blog.explicae.com.br/wp-content/uploads/2018/08/MATERIAS-ESTUDO-ENEM-VESTIBULAR.gif">
