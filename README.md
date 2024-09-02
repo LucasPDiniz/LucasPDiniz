@@ -1,16 +1,12 @@
 <h2 align="left">
-  ## Some things about CyberSecurity !!!
+   Some things about CyberSecurity !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
 Welcome everyone!
-
 In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and payloads available for execution in some vulnerable scenarios.
-
 I'm thinking about creating some studies regarding Malware Analysis, however, in the future. :beetle:
-
 Feel free to open PR and/or create suggestions or corrections on any exploratory subject.
-
 Let's learn together? :v:
 
 ---
