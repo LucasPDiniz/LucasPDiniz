@@ -44,8 +44,8 @@ Let's learn together? :v:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 💻 Tech Stack
 
