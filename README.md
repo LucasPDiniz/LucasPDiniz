@@ -41,9 +41,23 @@ Let's learn together? :v:
 
 
 <p align="center">
-   <strong>TryHackMe Leaderboards</strong>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <div style="position: relative; display: inline-block;">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 20px; background: rgba(0,0,0,0.5); padding: 5px;">
+          tryhackme
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 🏆 GitHub Trophies
