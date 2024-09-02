@@ -41,9 +41,8 @@ Let's learn together? :v:
   </a>
 </p>
 
-<p align="center">
-  <img width="360" height="260" src="https://blog.explicae.com.br/wp-content/uploads/2018/08/MATERIAS-ESTUDO-ENEM-VESTIBULAR.gif">
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## Skills
 
