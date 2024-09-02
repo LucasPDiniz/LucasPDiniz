@@ -39,13 +39,13 @@ Let's learn together? :v:
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <div style="position: relative; display: inline-block;">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe Leaderboard">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe " style="display: block;">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 20px; background: rgba(0,0,0,0.5); padding: 5px;">
-          tryhackme
+          TryHackMe Leaderboard
         </div>
       </div>
     </td>
