@@ -44,7 +44,7 @@ Let's learn together? :v:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## Skills
+# 💻 Tech Stack
 
 </div>
 <div style="display: inline_block"><br>
