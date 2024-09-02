@@ -43,6 +43,8 @@ Let's learn together? :v:
     <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png">
 </p>
 
+<script src="https://tryhackme.com/badge/255109"></script>
+
 ![TryHackMe - Failure]()
 
 ## 🏆 GitHub Trophies
