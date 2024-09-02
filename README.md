@@ -39,13 +39,12 @@ Let's learn together? :v:
   </a>
 </p>
 
+
 <p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png">
+   <strong>TryHackMe Leaderboards</strong>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
-
-![TryHackMe - Failure]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
