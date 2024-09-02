@@ -40,7 +40,7 @@ Let's learn together? :v:
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png">
 </p>
 
 ![TryHackMe - Failure]()
