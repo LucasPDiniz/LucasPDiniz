@@ -39,6 +39,8 @@ Let's learn together? :v:
   </a>
 </p>
 
+![TryHackMe - Scumdestroy](https://tryhackme-badges.s3.amazonaws.com/failure.png)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
