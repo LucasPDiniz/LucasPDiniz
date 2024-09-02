@@ -39,7 +39,11 @@ Let's learn together? :v:
   </a>
 </p>
 
-![TryHackMe - Failure](https://tryhackme-badges.s3.amazonaws.com/Failure.png)
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450">
+</p>
+
+![TryHackMe - Failure]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
