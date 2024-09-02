@@ -39,16 +39,11 @@ Let's learn together? :v:
   </a>
 </p>
 
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
-</p>
-
 <table>
   <tr>
     <td align="center">
       <div style="position: relative; display: inline-block;">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe Leaderboard">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 20px; background: rgba(0,0,0,0.5); padding: 5px;">
           tryhackme
         </div>
@@ -56,9 +51,6 @@ Let's learn together? :v:
     </td>
   </tr>
 </table>
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaspdiniz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
