@@ -86,5 +86,5 @@ Let's learn together? :v:
   
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
-  
-[![GitHub LucasPDiniz](https://img.shields.io/github/followers/LucasPDiniz?label=follow&style=social)](https://github.com/LucasPDiniz)
+
+![](https://img.shields.io/github/followers/LucasPDiniz?label=follow&style=social)
