@@ -17,12 +17,6 @@ Let's learn together? :v:
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=5000&color=00FF00&center=true&vCenter=true&lines=root@nasa.gov:~%23%20rm%20-rf%20/" alt="Introduction">
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&theme=dark#gh-dark-mode-only" alt="LucasPD's github stats">
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
