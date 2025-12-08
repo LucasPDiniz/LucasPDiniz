@@ -14,28 +14,12 @@ Let's learn together? :v:
 ---
 
 <p align="center">
-  <strong>Views :mag:</strong>
-  <br>
-  <img src="https://profile-counter.glitch.me/lucaspd777/count.svg" alt="Visitors">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=5000&color=00FF00&center=true&vCenter=true&lines=root@nasa.gov:~%23%20rm%20-rf%20/" alt="Introduction">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&layout=compact&theme=dark" alt="LucasPD's top langs">
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&theme=dark#gh-dark-mode-only" alt="LucasPD's github stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://streak-stats.demolab.com?user=lucaspdiniz&theme=dark&card_width=450" alt="LucasPD's streak stats">
   </a>
 </p>
 
