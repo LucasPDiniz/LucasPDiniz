@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-Welcome everyone!
+<a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
 In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and payloads available for execution in some vulnerable scenarios.
 I'm thinking about creating some studies regarding Malware Analysis, however, in the future. :beetle:
 
@@ -11,26 +12,44 @@ Feel free to open PR and/or create suggestions or corrections on any exploratory
 
 Let's learn together? :v:
 
----
+<h1 align="center">
+  <picture>
+    <img height="250px" style="margin: 0; padding: 0" src="https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/common/logo/ImHexLogoSVGBG.svg">
+  </picture>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasPDiniz&label=Visitors&color=0e75b6&style=flat" alt="LucasPDiniz" /> <img src="https://img.shields.io/github/followers/LucasPDiniz?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
+ <a href="https://github.com/LucasPDiniz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LucasPDiniz"/></a>
+ </a>
+</p>
+</h1>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=5000&color=00FF00&center=true&vCenter=true&lines=root@nasa.gov:~%23%20rm%20-rf%20/" alt="Introduction">
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <div style="position: relative; display: inline-block;">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Failure.png" alt="TryHackMe " style="display: block;">
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 20px; background: rgba(0,0,0,0.5); padding: 5px;">
-          TryHackMe Leaderboard
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+
+<div style="text-align: center;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Banana0.png" alt="rank" />
+</div>
+
+<!-- ###### My Github Stats  ##### -->
+
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+
+ <div align="center">
+<a href="http://www.github.com/LucasPDiniz"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="LucasPDiniz's GitHub stats" /></a>
+<a href="https://github.com/LucasPDiniz"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
 ## ✍️ Random Dev Quote
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="360px" align="right"> <br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 💻 Tech Stack
@@ -63,3 +82,5 @@ Let's learn together? :v:
 - 😄 Pronouns: He/Him
 
 ![](https://img.shields.io/github/followers/LucasPDiniz?label=follow&style=social)
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
