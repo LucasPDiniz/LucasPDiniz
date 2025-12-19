@@ -1,4 +1,4 @@
-
+<img width=100% title="LG" alt="Logical" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LogicalFail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=860&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
