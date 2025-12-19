@@ -38,9 +38,13 @@ Let's learn together? :v:
 <a href="https://github.com/LucasPDiniz"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-<p align="center">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+<p align="left">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 </p>
+
+
 
 ## 💻 Tech Stack
 
