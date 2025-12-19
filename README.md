@@ -43,7 +43,7 @@ Let's learn together? :v:
 
 ## ✍️ Random Dev Quote
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="300px" width="360px" align="right"> <br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="360px" align="right" > <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
