@@ -41,11 +41,14 @@ Let's learn together? :v:
 <a href="https://github.com/LucasPDiniz"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-## ✍️ Random Dev Quote
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="360px" align="right" > <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div style="width: 100%; text-align: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+       style="min-width: 100px; max-width: 400px; width: 360px; display: block; margin: 0 auto;" 
+       alt="Imagem Centralizada">
+</div>
+
 
 ## 💻 Tech Stack
 
@@ -75,7 +78,5 @@ Let's learn together? :v:
   
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
-
-![](https://img.shields.io/github/followers/LucasPDiniz?label=follow&style=social)
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
