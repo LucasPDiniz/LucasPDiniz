@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-<a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=880&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=860&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
 In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and payloads available for execution in some vulnerable scenarios.
 I'm thinking about creating some studies regarding Malware Analysis, however, in the future. :beetle:
@@ -24,18 +24,13 @@ Let's learn together? :v:
 </p>
 </h1>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=5000&color=00FF00&center=true&vCenter=true&lines=root@nasa.gov:~%23%20rm%20-rf%20/" alt="Introduction">
 </p>
 
-
-<div style="text-align: center;">
+<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Banana0.png" alt="rank" />
-</div>
-
-<!-- ###### My Github Stats  ##### -->
+</p>
 
 <h4 align="center">
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -48,7 +43,7 @@ Let's learn together? :v:
 
 ## ✍️ Random Dev Quote
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="360px" align="right"> <br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="300px" width="360px" align="right"> <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
