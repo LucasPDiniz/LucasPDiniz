@@ -1,7 +1,4 @@
-<h2 align="left">
-   Some things about CyberSecurity !!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
+
 
 <a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=860&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
