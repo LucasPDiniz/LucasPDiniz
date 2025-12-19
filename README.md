@@ -75,7 +75,9 @@ Let's learn together? :v:
 - 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
 
+<img src="https://github.com/Ahtisham-1214/Ahtisham-1214/blob/main/assets/line.gif?raw=true" height="50" width="100%">
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 <img width=100% title="PD" alt="PD"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
