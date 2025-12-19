@@ -42,12 +42,11 @@ Let's learn together? :v:
 </div>
 
 
-
+<p align="center">
 <div style="width: 100%; text-align: center;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-       style="min-width: 100px; max-width: 400px; width: 360px; display: block; margin: 0 auto;" 
-       alt="Imagem Centralizada">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" >
 </div>
+</p>
 
 
 ## 💻 Tech Stack
