@@ -2,12 +2,27 @@
 
 <a href="https://github.com/LucasPDiniz"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps;🌐%20Bug%20Hunter;👨‍💻%20CyberSecurity;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=800&height=120&color=58a6ff&vCenter=true&size=40%22"></a>
 
-In this profile I will try to document recent vulnerabilities (CVE's) of great impact for companies. Additionally, some exploitation scripts such as exploits and payloads available for execution in some vulnerable scenarios.
-I'm thinking about creating some studies regarding Malware Analysis, however, in the future. :beetle:
+👋 Hello, I'm Lucas,
+Cloud Security & DevSecOps Engineer
 
-Feel free to open PR and/or create suggestions or corrections on any exploratory subject.
+Cloud Security & DevSecOps Engineer with experience in secure cloud environments, infrastructure automation, Kubernetes, CI/CD Security and Vulnerability Research.
 
-Let's learn together? :v:
+My professional background combines Cloud Security, DevSecOps, Security Engineering and Offensive Security, with hands-on experience in AWS, Oracle Cloud Infrastructure (OCI), Kubernetes, Infrastructure as Code, security automation, SSDLC and vulnerability management.
+
+I am also actively involved in Security Research, Bug Bounty programs, CVE analysis and Offensive Security studies, continuously improving my understanding of modern attack vectors and defensive security strategies.
+
+##
+
+🚀 Current Focus
+* Cloud Security
+* DevSecOps
+* Security Engineering
+* Kubernetes Security
+* AWS Security
+* Vulnerability Research
+* Security Automation
+* SSDLC
+* Bug Bounty
 
 <h1 align="center">
   <picture>
@@ -49,25 +64,73 @@ Let's learn together? :v:
   />
 </p>
 
-## 💻 Tech Stack
+##
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lucas-Bash" height="45" width="45" src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png">
-  <img align="center" alt="Lucas-AWS" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Ansible" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Debian" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Lucas-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-Mysql" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Oracle" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  
+🏆 Certifications
+eJPT – Junior Penetration Tester
+
+Practical certification focused on:
+* Network Security
+* Web Application Security
+* Enumeration
+* Exploitation
+* Privilege Escalation
+* Penetration Testing Methodology
+
+## 🌐 Portfolio
+
+🔗 https://lucaspdiniz.github.io/
 
 
-## Social Media
+## ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+</p>
+
+---
+
+## ⚙️ DevOps & DevSecOps
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/SSDLC-00C853?style=for-the-badge">
+</p>
+
+---
+
+## 🔐 Security
+
+<p>
+<img src="https://img.shields.io/badge/Wazuh-0055A4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Orca_Security-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gitleaks-FF5722?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grype-00BFA5?style=for-the-badge">
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge">
+</p>
+
+---
+
+## 💻 Development
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+## 📫 Contact
 
   <div> 
 <a href="https://instagram.com/lucaspagliucaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -84,3 +147,7 @@ Let's learn together? :v:
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 <img width=100% title="PD" alt="PD"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+##
+
+Cloud Security • DevSecOps • Security Engineering • Offensive Security
