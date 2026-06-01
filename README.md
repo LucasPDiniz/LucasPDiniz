@@ -44,15 +44,6 @@ I am also actively involved in Security Research, Bug Bounty programs, CVE analy
   <img src="https://tryhackme-badges.s3.amazonaws.com/Banana0.png" alt="rank" />
 </p>
 
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
-
- <div align="center">
-<a href="http://www.github.com/LucasPDiniz"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=LucasPDiniz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="LucasPDiniz's GitHub stats" /></a>
-<a href="https://github.com/LucasPDiniz"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPDiniz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
