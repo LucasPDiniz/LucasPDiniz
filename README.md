@@ -44,6 +44,10 @@ I am also actively involved in Security Research, Bug Bounty programs, CVE analy
   <img src="https://tryhackme-badges.s3.amazonaws.com/Banana0.png" alt="rank" />
 </p>
 
+<p align="center">
+  <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/Banana0-1780342443721.png" alt="rank" />
+</p>
+
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
